@@ -4,9 +4,7 @@ package blackjack;
 
 public class Blackjack {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         //Main method to play the game
         Game game = new Game(1);
