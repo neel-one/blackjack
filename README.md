@@ -1,5 +1,5 @@
 # blackjack
-Created a blackjack game. Want to implement game theory/stats methods
+Created a blackjack game with object oriented programming in mind. Want to implement game theory/stats methods
 
 Initial idea was to try to use statistics/blackjack game theory that can give factors such as how much to bet, chances of winning, etc. 
 Currently have blackjack game written with player chosen moves, an automated dealer, and an updating public card count and player bank.
