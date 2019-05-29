@@ -1,5 +1,5 @@
 
-package blackjack; //testing this
+package blackjack;
 import java.util.Scanner;
 
 public class Money {
