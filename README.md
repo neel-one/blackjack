@@ -6,4 +6,4 @@ Currently have blackjack game written with player chosen moves, an automated dea
 
 TODO: fix some bugs, make it run more efficiently, start reading papers and implementing the fun stats stuff
 
-(The main method is Blackjack.java)
+
